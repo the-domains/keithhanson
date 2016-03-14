@@ -1,0 +1,28 @@
+name: keithhanson
+favicon: null
+layout_spectrum: 0.30802546022459865
+typography_spectrum: 0.5694632588420063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.41262242244556546
+  lightness: 0.5675314674153924
+  saturation: 0.5016714106313884
+  rhythmicContrast: 0.14377957535907626
+purpose: []
